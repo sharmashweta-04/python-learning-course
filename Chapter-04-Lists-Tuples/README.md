@@ -2,7 +2,6 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/Status-Not%20Started-lightgrey?style=for-the-badge)](#)
 [![Files](https://img.shields.io/badge/Files-0-blue?style=for-the-badge)](#)
 
 ---

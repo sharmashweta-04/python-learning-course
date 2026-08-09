@@ -1,14 +1,6 @@
 # 🎮 Project 1: Snake, Water, Gun Game
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge)](#)
-
----
-
 A classic command-line implementation of the "Snake, Water, Gun" game (similar to Rock, Paper, Scissors) playing against the computer.
-
-</div>
 
 ## 📝 Rules of the Game
 * **Snake** drinks **Water** (Snake wins)

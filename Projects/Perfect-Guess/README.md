@@ -1,14 +1,6 @@
 # 🔢 Project 2: The Perfect Guess
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge)](#)
-
----
-
 A fun number guessing game where the player attempts to guess a randomly generated number. The program keeps track of the number of attempts and records the user's high score.
-
-</div>
 
 ## 📝 Workflow
 1. The program generates a random number between 1 and 100.

@@ -1,14 +1,6 @@
 # 💬 Mega Project 2: Auto Reply AI Chatbot
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/Status-Planned-lightgrey?style=for-the-badge)](#)
-
----
-
 An intelligent AI chatbot designed to monitor incoming messages (e.g. on chat platforms or email) and automatically draft or send replies using AI-powered language processing models.
-
-</div>
 
 ## 🤖 Features (Planned)
 * **Message Monitoring**: Tracks messages using integration APIs or automation tools.
